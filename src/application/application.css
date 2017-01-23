@@ -1,0 +1,26 @@
+#hbox1 {
+	
+	-fx-background-color:cornsilk;
+	
+}
+
+#hbox2 {
+	
+	-fx-background-color:floralwhite;
+	-fx-border-style:solid;
+	-fx-border-width:2px;
+	-fx-border-color:brown;
+	
+}
+
+#label {
+	
+	-fx-font-size:14pt;
+	
+}
+
+#button {
+	
+	-fx-font-size:11pt;
+	
+}
