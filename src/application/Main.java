@@ -20,7 +20,7 @@ public class Main extends Application {
 		try {
 			BorderPane root = new BorderPane();
 			Scene scene = new Scene(root, 1200, 700);
-			
+			primaryStage.setTitle("Quadratic Function Drawer");
 			// Add Elements to scene ================
 			HBox hbox1 = new HBox(8);
 			hbox1.setId("hbox1");
